@@ -1,2 +1,2 @@
-# SUmmer-Project
+# Smmmer-Project
 Geo Spatial Data analysis
